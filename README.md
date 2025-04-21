@@ -1,2 +1,2 @@
-# Karing
-Backup files
+# Karing Backup
+Репозиторий для хранения ZIP-настроек
